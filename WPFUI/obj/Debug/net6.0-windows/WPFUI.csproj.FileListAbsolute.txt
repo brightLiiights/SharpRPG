@@ -19,3 +19,6 @@ C:\Users\aleja\source\repos\PersonalCSharp\SOSCSRPG\WPFUI\obj\Debug\net6.0-windo
 C:\Users\aleja\source\repos\PersonalCSharp\SOSCSRPG\WPFUI\obj\Debug\net6.0-windows\WPFUI.pdb
 C:\Users\aleja\source\repos\PersonalCSharp\SOSCSRPG\WPFUI\obj\Debug\net6.0-windows\WPFUI.genruntimeconfig.cache
 C:\Users\aleja\source\repos\PersonalCSharp\SOSCSRPG\WPFUI\obj\Debug\net6.0-windows\ref\WPFUI.dll
+C:\Users\aleja\source\repos\PersonalCSharp\SOSCSRPG\WPFUI\bin\Debug\net6.0-windows\Engine.dll
+C:\Users\aleja\source\repos\PersonalCSharp\SOSCSRPG\WPFUI\bin\Debug\net6.0-windows\Engine.pdb
+C:\Users\aleja\source\repos\PersonalCSharp\SOSCSRPG\WPFUI\obj\Debug\net6.0-windows\WPFUI.csproj.CopyComplete
