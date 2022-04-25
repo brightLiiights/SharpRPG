@@ -15,7 +15,7 @@ namespace Engine.ViewModels
             CurrentPlayer = new Player()
             {
                 Name = "Alex",
-                CharacterClass = "Test",
+                CharacterClass = "Fighter",
                 HitPoints = 12,
                 ExpPoints = 0,
                 Level = 1,
